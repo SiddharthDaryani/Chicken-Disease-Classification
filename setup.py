@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
-
 setup(
-    name="Chicken-Disease-Classification",
-    version="1.0",
+    name='Chicken-Disease-Classifier',
+    version='0.1',
     packages=find_packages(),
+    install_requires= [],
 )
